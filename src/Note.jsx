@@ -15,6 +15,7 @@ props.deleteItem(props.id);
     <Button onClick={deleteNode}>
     <DeleteIcon className="deleteIcon"/>
     </Button>
+    <hr></hr>
 </div>
 </>
     );
